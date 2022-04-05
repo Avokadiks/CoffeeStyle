@@ -20,6 +20,29 @@ a:hover{
     transform: scale(1.2);
 }
 /**************************** header ****************************/
+header{
+    margin: 0 auto;
+    width: 1440px;
+    display: flex;
+    padding: 20px 25px ;
+    /* position: fixed; */
+    background-color: white;
+}
+.logo_rg_side{
+    display: flex;
+}
+.logo_texts{
+    margin-left: 97px;
+    margin-right: 50px;
+}
+.lg_txt{
+    margin-right: 30px;
+    font-family: Karla;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #1D1F2E;
+}
 /**************************** sec1 ****************************/
 /**************************** sec2 ****************************/
 /**************************** sec3 ****************************/
